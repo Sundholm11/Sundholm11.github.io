@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb7b9138.chunk.css",
+    "main.js": "/static/js/main.b0c4fa21.chunk.js",
+    "main.js.map": "/static/js/main.b0c4fa21.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b987a08d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b987a08d.js.map",
+    "static/js/2.48f1fc08.chunk.js": "/static/js/2.48f1fc08.chunk.js",
+    "static/js/2.48f1fc08.chunk.js.map": "/static/js/2.48f1fc08.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.4fed8c0ba9ce87a9cec032e7c93f1344.js": "/precache-manifest.4fed8c0ba9ce87a9cec032e7c93f1344.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.fb7b9138.chunk.css.map": "/static/css/main.fb7b9138.chunk.css.map",
+    "static/js/2.48f1fc08.chunk.js.LICENSE": "/static/js/2.48f1fc08.chunk.js.LICENSE",
+    "static/media/chatapp.jpg": "/static/media/chatapp.8d5cac2e.jpg",
+    "static/media/fullstackopen2019img.jpg": "/static/media/fullstackopen2019img.baac8230.jpg",
+    "static/media/ilmoplaseimg.jpg": "/static/media/ilmoplaseimg.a8e8d7ef.jpg",
+    "static/media/pp.jpg": "/static/media/pp.4d3217c9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b987a08d.js",
+    "static/js/2.48f1fc08.chunk.js",
+    "static/css/main.fb7b9138.chunk.css",
+    "static/js/main.b0c4fa21.chunk.js"
+  ]
+}
