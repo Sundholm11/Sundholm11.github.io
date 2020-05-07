@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.092e9805.chunk.css",
-    "main.js": "/static/js/main.11f03b37.chunk.js",
-    "main.js.map": "/static/js/main.11f03b37.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b987a08d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b987a08d.js.map",
-    "static/js/2.1cfcf1b0.chunk.js": "/static/js/2.1cfcf1b0.chunk.js",
-    "static/js/2.1cfcf1b0.chunk.js.map": "/static/js/2.1cfcf1b0.chunk.js.map",
+    "main.css": "/static/css/main.df4ad759.chunk.css",
+    "main.js": "/static/js/main.4e9c4f8e.chunk.js",
+    "main.js.map": "/static/js/main.4e9c4f8e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2055741.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2055741.js.map",
+    "static/js/2.3662eb1e.chunk.js": "/static/js/2.3662eb1e.chunk.js",
+    "static/js/2.3662eb1e.chunk.js.map": "/static/js/2.3662eb1e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.61fa9dc6017203a63ea0f3b9ad854f06.js": "/precache-manifest.61fa9dc6017203a63ea0f3b9ad854f06.js",
+    "precache-manifest.385546a488d485569a08bd1bd4415aa3.js": "/precache-manifest.385546a488d485569a08bd1bd4415aa3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.092e9805.chunk.css.map": "/static/css/main.092e9805.chunk.css.map",
-    "static/js/2.1cfcf1b0.chunk.js.LICENSE": "/static/js/2.1cfcf1b0.chunk.js.LICENSE",
+    "static/css/main.df4ad759.chunk.css.map": "/static/css/main.df4ad759.chunk.css.map",
+    "static/js/2.3662eb1e.chunk.js.LICENSE.txt": "/static/js/2.3662eb1e.chunk.js.LICENSE.txt",
     "static/media/chatapp.jpg": "/static/media/chatapp.8d5cac2e.jpg",
     "static/media/fullstackopen2019img.jpg": "/static/media/fullstackopen2019img.baac8230.jpg",
     "static/media/ilmoplaseimg.jpg": "/static/media/ilmoplaseimg.a8e8d7ef.jpg",
     "static/media/portfolio.jpg": "/static/media/portfolio.b6bec064.jpg",
-    "static/media/pp.jpg": "/static/media/pp.4d3217c9.jpg"
+    "static/media/pp.jpg": "/static/media/pp.4d3217c9.jpg",
+    "static/media/sportscalendar.jpg": "/static/media/sportscalendar.c1cd7db7.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b987a08d.js",
-    "static/js/2.1cfcf1b0.chunk.js",
-    "static/css/main.092e9805.chunk.css",
-    "static/js/main.11f03b37.chunk.js"
+    "static/js/runtime-main.d2055741.js",
+    "static/js/2.3662eb1e.chunk.js",
+    "static/css/main.df4ad759.chunk.css",
+    "static/js/main.4e9c4f8e.chunk.js"
   ]
 }
