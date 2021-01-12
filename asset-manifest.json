@@ -1,28 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.df4ad759.chunk.css",
-    "main.js": "/static/js/main.4e9c4f8e.chunk.js",
-    "main.js.map": "/static/js/main.4e9c4f8e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.d2055741.js",
-    "runtime-main.js.map": "/static/js/runtime-main.d2055741.js.map",
-    "static/js/2.3662eb1e.chunk.js": "/static/js/2.3662eb1e.chunk.js",
-    "static/js/2.3662eb1e.chunk.js.map": "/static/js/2.3662eb1e.chunk.js.map",
+    "main.css": "/static/css/main.fce2b616.chunk.css",
+    "main.js": "/static/js/main.23955982.chunk.js",
+    "main.js.map": "/static/js/main.23955982.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3be348e8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3be348e8.js.map",
+    "static/js/2.3cc3390a.chunk.js": "/static/js/2.3cc3390a.chunk.js",
+    "static/js/2.3cc3390a.chunk.js.map": "/static/js/2.3cc3390a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.385546a488d485569a08bd1bd4415aa3.js": "/precache-manifest.385546a488d485569a08bd1bd4415aa3.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.df4ad759.chunk.css.map": "/static/css/main.df4ad759.chunk.css.map",
-    "static/js/2.3662eb1e.chunk.js.LICENSE.txt": "/static/js/2.3662eb1e.chunk.js.LICENSE.txt",
-    "static/media/chatapp.jpg": "/static/media/chatapp.8d5cac2e.jpg",
-    "static/media/fullstackopen2019img.jpg": "/static/media/fullstackopen2019img.baac8230.jpg",
-    "static/media/ilmoplaseimg.jpg": "/static/media/ilmoplaseimg.a8e8d7ef.jpg",
-    "static/media/portfolio.jpg": "/static/media/portfolio.b6bec064.jpg",
-    "static/media/pp.jpg": "/static/media/pp.4d3217c9.jpg",
-    "static/media/sportscalendar.jpg": "/static/media/sportscalendar.c1cd7db7.jpg"
+    "static/css/main.fce2b616.chunk.css.map": "/static/css/main.fce2b616.chunk.css.map",
+    "static/js/2.3cc3390a.chunk.js.LICENSE.txt": "/static/js/2.3cc3390a.chunk.js.LICENSE.txt",
+    "static/media/chatapp.4f7568be.jpg": "/static/media/chatapp.4f7568be.jpg",
+    "static/media/fullstackopen2019img.ab9cdf13.jpg": "/static/media/fullstackopen2019img.ab9cdf13.jpg",
+    "static/media/ilmoplaseimg.f406fba1.jpg": "/static/media/ilmoplaseimg.f406fba1.jpg",
+    "static/media/portfolio.53443906.jpg": "/static/media/portfolio.53443906.jpg",
+    "static/media/pp.89596707.jpg": "/static/media/pp.89596707.jpg",
+    "static/media/sportscalendar.64d52dbc.jpg": "/static/media/sportscalendar.64d52dbc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d2055741.js",
-    "static/js/2.3662eb1e.chunk.js",
-    "static/css/main.df4ad759.chunk.css",
-    "static/js/main.4e9c4f8e.chunk.js"
+    "static/js/runtime-main.3be348e8.js",
+    "static/js/2.3cc3390a.chunk.js",
+    "static/css/main.fce2b616.chunk.css",
+    "static/js/main.23955982.chunk.js"
   ]
 }
